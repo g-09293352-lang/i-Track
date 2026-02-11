@@ -1,0 +1,16 @@
+{
+  "name": "Sistem Rekod Keberadaan Guru",
+  "short_name": "I-TRACK",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#eab308",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "https://lucide.dev/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
